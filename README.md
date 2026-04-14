@@ -1,1 +1,1 @@
-(https://pshidatok.github.io/github-search/)
+https://pshidatok.github.io/github-search/
