@@ -1,0 +1,57 @@
+.wrapper {
+      width: 600px; 
+      margin: 50px auto;
+      background: #C4C4C4;
+      padding: 50px;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      font-size: 18px;
+      border: 2px solid ;
+    }
+
+    .autocomplete {
+      width: 617px;
+      border: solid 2px;
+      border-top: none;
+      margin-top: -2px;
+    }
+
+    .autocomplete-item {
+      padding: 10px;
+      border-top: 2px solid;
+      cursor: pointer;
+      background: #d9d9d9;
+    }
+
+    .autocomplete-item:hover {
+      background: #65CDF9;
+    }
+
+    .repo-list {
+      width: 617px;
+    }
+
+    .repo {
+      margin-top: 20px;
+      padding: 15px;
+      background: #E27BEB;
+      border: 2px solid #000;
+      color: black;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .repo div {
+      line-height: 1.5;
+    }
+
+    .delete-btn {
+      font-size: 50px;
+      color: red;
+      cursor: pointer;
+      font-weight: bold;
+    }
